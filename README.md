@@ -13,4 +13,4 @@ An interactive web application built with Streamlit and TensorFlow that predicts
 -**Production Ready**: Complete pipeline from data preprocessing to model inference
 
 ## Live Demo
-#Try the application here: https://churnprediction-raryd6mapjh5xhln9epswh.streamlit.app/
+Try the application here: https://churnprediction-raryd6mapjh5xhln9epswh.streamlit.app/
